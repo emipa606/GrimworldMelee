@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Power Fist -->
+  <MeleeWeapon_PowerFist.label>Power Fist</MeleeWeapon_PowerFist.label>
+  <!-- EN: A Power Fist is large and slow in combat, and so the bearer must be willing to risk the blows of his enemy before he can strike back. However, a Power Fist vastly augments a user's strength, much as power armour does due to the power provided its mechanical servos. -->
+  <MeleeWeapon_PowerFist.description>A Power Fist is large and slow in combat, and so the bearer must be willing to risk the blows of his enemy before he can strike back. However, a Power Fist vastly augments a user's strength, much as power armour does due to the power provided its mechanical servos.</MeleeWeapon_PowerFist.description>
+  <!-- EN: Fist -->
+  <MeleeWeapon_PowerFist.tools.Fist.label>Fist</MeleeWeapon_PowerFist.tools.Fist.label>
+  <!-- EN: Power Sword -->
+  <MeleeWeapon_PowerSword.label>Power Sword</MeleeWeapon_PowerSword.label>
+  <!-- EN: Power Swords are one of the preeminent types of Power Weapons. When its power cell is activated, the blade becomes sheathed in a lethal haze of a disruptive energy field. This field allows the blade to easily rip through armor and flesh alike. -->
+  <MeleeWeapon_PowerSword.description>Power Swords are one of the preeminent types of Power Weapons. When its power cell is activated, the blade becomes sheathed in a lethal haze of a disruptive energy field. This field allows the blade to easily rip through armor and flesh alike.</MeleeWeapon_PowerSword.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_PowerSword.tools.handle.label>handle</MeleeWeapon_PowerSword.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeapon_PowerSword.tools.point.label>point</MeleeWeapon_PowerSword.tools.point.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_PowerSword.tools.edge.label>edge</MeleeWeapon_PowerSword.tools.edge.label>
+  <!-- EN: Power Sword -->
+  <MeleeWeapon_PowerSwordtwo.label>Power Sword</MeleeWeapon_PowerSwordtwo.label>
+  <!-- EN: Power Swords are one of the preeminent types of Power Weapons. When its power cell is activated, the blade becomes sheathed in a lethal haze of a disruptive energy field. This field allows the blade to easily rip through armor and flesh alike. -->
+  <MeleeWeapon_PowerSwordtwo.description>Power Swords are one of the preeminent types of Power Weapons. When its power cell is activated, the blade becomes sheathed in a lethal haze of a disruptive energy field. This field allows the blade to easily rip through armor and flesh alike.</MeleeWeapon_PowerSwordtwo.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_PowerSwordtwo.tools.handle.label>handle</MeleeWeapon_PowerSwordtwo.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeapon_PowerSwordtwo.tools.point.label>point</MeleeWeapon_PowerSwordtwo.tools.point.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_PowerSwordtwo.tools.edge.label>edge</MeleeWeapon_PowerSwordtwo.tools.edge.label>
+</LanguageData>

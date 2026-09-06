@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Chain Shortsword -->
+  <MeleeWeapon_Chainshortsword.label>Chain Shortsword</MeleeWeapon_Chainshortsword.label>
+  <!-- EN: Chainswords are not subtle weapons, and wielding one is a statement in its own right: they are horrific tools of war, designed to bite, tear and eviscerate where more primitive blades merely cut and slice. -->
+  <MeleeWeapon_Chainshortsword.description>Chainswords are not subtle weapons, and wielding one is a statement in its own right: they are horrific tools of war, designed to bite, tear and eviscerate where more primitive blades merely cut and slice.</MeleeWeapon_Chainshortsword.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Chainshortsword.tools.handle.label>handle</MeleeWeapon_Chainshortsword.tools.handle.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_Chainshortsword.tools.edge.label>edge</MeleeWeapon_Chainshortsword.tools.edge.label>
+  <!-- EN: Chainsword -->
+  <MeleeWeapon_Chainsword.label>Chainsword</MeleeWeapon_Chainsword.label>
+  <!-- EN: Chainswords are not subtle weapons, and wielding one is a statement in its own right: they are horrific tools of war, designed to bite, tear and eviscerate where more primitive blades merely cut and slice. -->
+  <MeleeWeapon_Chainsword.description>Chainswords are not subtle weapons, and wielding one is a statement in its own right: they are horrific tools of war, designed to bite, tear and eviscerate where more primitive blades merely cut and slice.</MeleeWeapon_Chainsword.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Chainsword.tools.handle.label>handle</MeleeWeapon_Chainsword.tools.handle.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_Chainsword.tools.edge.label>edge</MeleeWeapon_Chainsword.tools.edge.label>
+  <!-- EN: Trench Shovel -->
+  <MeleeWeapon_TrenchShovel.label>Trench Shovel</MeleeWeapon_TrenchShovel.label>
+  <!-- EN: Trench Shovels are used by the Astra Militarum to dig trenches with. The Death Korps of Krieg have put such Shovels to legendary use in their service to the Imperium. -->
+  <MeleeWeapon_TrenchShovel.description>Trench Shovels are used by the Astra Militarum to dig trenches with. The Death Korps of Krieg have put such Shovels to legendary use in their service to the Imperium.</MeleeWeapon_TrenchShovel.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_TrenchShovel.tools.handle.label>handle</MeleeWeapon_TrenchShovel.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_TrenchShovel.tools.head.label>head</MeleeWeapon_TrenchShovel.tools.head.label>
+</LanguageData>
